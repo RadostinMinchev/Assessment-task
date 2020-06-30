@@ -1,0 +1,11 @@
+C:\Users\PC1\source\repos\AssessmentTask\AssessmentTask\bin\Debug\netcoreapp3.0\AssessmentTask.exe
+C:\Users\PC1\source\repos\AssessmentTask\AssessmentTask\bin\Debug\netcoreapp3.0\AssessmentTask.deps.json
+C:\Users\PC1\source\repos\AssessmentTask\AssessmentTask\bin\Debug\netcoreapp3.0\AssessmentTask.runtimeconfig.json
+C:\Users\PC1\source\repos\AssessmentTask\AssessmentTask\bin\Debug\netcoreapp3.0\AssessmentTask.runtimeconfig.dev.json
+C:\Users\PC1\source\repos\AssessmentTask\AssessmentTask\bin\Debug\netcoreapp3.0\AssessmentTask.dll
+C:\Users\PC1\source\repos\AssessmentTask\AssessmentTask\bin\Debug\netcoreapp3.0\AssessmentTask.pdb
+C:\Users\PC1\source\repos\AssessmentTask\AssessmentTask\obj\Debug\netcoreapp3.0\AssessmentTask.csprojAssemblyReference.cache
+C:\Users\PC1\source\repos\AssessmentTask\AssessmentTask\obj\Debug\netcoreapp3.0\AssessmentTask.AssemblyInfoInputs.cache
+C:\Users\PC1\source\repos\AssessmentTask\AssessmentTask\obj\Debug\netcoreapp3.0\AssessmentTask.AssemblyInfo.cs
+C:\Users\PC1\source\repos\AssessmentTask\AssessmentTask\obj\Debug\netcoreapp3.0\AssessmentTask.dll
+C:\Users\PC1\source\repos\AssessmentTask\AssessmentTask\obj\Debug\netcoreapp3.0\AssessmentTask.pdb
